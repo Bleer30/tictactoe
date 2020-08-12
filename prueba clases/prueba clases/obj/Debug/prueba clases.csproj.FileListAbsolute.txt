@@ -1,0 +1,30 @@
+C:\Users\Win10\source\repos\prueba clases\prueba clases\bin\Debug\prueba clases.exe.config
+C:\Users\Win10\source\repos\prueba clases\prueba clases\bin\Debug\prueba clases.exe
+C:\Users\Win10\source\repos\prueba clases\prueba clases\bin\Debug\prueba clases.pdb
+C:\Users\Win10\source\repos\prueba clases\prueba clases\obj\Debug\prueba clases.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\prueba clases\prueba clases\obj\Debug\prueba_clases.Form1.resources
+C:\Users\Win10\source\repos\prueba clases\prueba clases\obj\Debug\prueba_clases.Properties.Resources.resources
+C:\Users\Win10\source\repos\prueba clases\prueba clases\obj\Debug\prueba clases.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\prueba clases\prueba clases\obj\Debug\prueba clases.exe
+C:\Users\Win10\source\repos\prueba clases\prueba clases\obj\Debug\prueba clases.pdb
+C:\Users\Win10\source\repos\prueba clases\prueba clases\obj\Debug\prueba clases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\proyectos\prueba clases\prueba clases\bin\Debug\prueba clases.exe.config
+C:\Users\Usuario\Documents\proyectos\prueba clases\prueba clases\bin\Debug\prueba clases.exe
+C:\Users\Usuario\Documents\proyectos\prueba clases\prueba clases\bin\Debug\prueba clases.pdb
+C:\Users\Usuario\Documents\proyectos\prueba clases\prueba clases\obj\Debug\prueba clases.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\proyectos\prueba clases\prueba clases\obj\Debug\prueba_clases.Form1.resources
+C:\Users\Usuario\Documents\proyectos\prueba clases\prueba clases\obj\Debug\prueba_clases.Properties.Resources.resources
+C:\Users\Usuario\Documents\proyectos\prueba clases\prueba clases\obj\Debug\prueba clases.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\proyectos\prueba clases\prueba clases\obj\Debug\prueba clases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\proyectos\prueba clases\prueba clases\obj\Debug\prueba clases.exe
+C:\Users\Usuario\Documents\proyectos\prueba clases\prueba clases\obj\Debug\prueba clases.pdb
+C:\Users\Usuario\Desktop\prueba clases\prueba clases\bin\Debug\prueba clases.exe.config
+C:\Users\Usuario\Desktop\prueba clases\prueba clases\bin\Debug\prueba clases.exe
+C:\Users\Usuario\Desktop\prueba clases\prueba clases\bin\Debug\prueba clases.pdb
+C:\Users\Usuario\Desktop\prueba clases\prueba clases\obj\Debug\prueba clases.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\prueba clases\prueba clases\obj\Debug\prueba_clases.Form1.resources
+C:\Users\Usuario\Desktop\prueba clases\prueba clases\obj\Debug\prueba_clases.Properties.Resources.resources
+C:\Users\Usuario\Desktop\prueba clases\prueba clases\obj\Debug\prueba clases.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\prueba clases\prueba clases\obj\Debug\prueba clases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\prueba clases\prueba clases\obj\Debug\prueba clases.exe
+C:\Users\Usuario\Desktop\prueba clases\prueba clases\obj\Debug\prueba clases.pdb
